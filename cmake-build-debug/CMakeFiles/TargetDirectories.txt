@@ -1,3 +1,0 @@
-C:/Users/jotem/Desktop/Universidade/3 Ano/Segundo semestre/CG/projeto/cmake-build-debug/CMakeFiles/class3.dir
-C:/Users/jotem/Desktop/Universidade/3 Ano/Segundo semestre/CG/projeto/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jotem/Desktop/Universidade/3 Ano/Segundo semestre/CG/projeto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
