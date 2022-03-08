@@ -1,0 +1,14 @@
+﻿  generator.cpp
+C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\generator.cpp(28,19): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\generator.cpp(30,19): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\generator.cpp(33,19): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\generator.cpp(35,21): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\generator.cpp(38,21): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\generator.cpp(40,19): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\generator.cpp(47,19): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\generator.cpp(49,19): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\generator.cpp(52,21): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\generator.cpp(54,21): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\generator.cpp(57,21): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\generator.cpp(59,19): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  class3.vcxproj -> C:\Users\jotem\Desktop\Universidade\3 Ano\Segundo semestre\CG\projeto\build\Debug\class3.exe

@@ -2,6 +2,8 @@
 #include <vector>
 #include <fstream>
 #include <cmath>
+#include <string.h>
+#include <string>
 
 struct Point{
     float x;

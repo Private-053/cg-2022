@@ -1,0 +1,10 @@
+^C:\USERS\JOTEM\DESKTOP\UNIVERSIDADE\3 ANO\SEGUNDO SEMESTRE\CG\PROJETO\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/jotem/Desktop/Universidade/3 Ano/Segundo semestre/CG/projeto" "-BC:/Users/jotem/Desktop/Universidade/3 Ano/Segundo semestre/CG/projeto/build" --check-stamp-file "C:/Users/jotem/Desktop/Universidade/3 Ano/Segundo semestre/CG/projeto/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

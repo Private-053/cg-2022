@@ -1,0 +1,10 @@
+^C:\USERS\JOTEM\DESKTOP\UNIVERSIDADE\3 ANO\SEGUNDO SEMESTRE\CG\PROJETO\BUILD\CMAKEFILES\436AA25EDCE188915799974D4C098DF0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/jotem/Desktop/Universidade/3 Ano/Segundo semestre/CG/projeto" "-BC:/Users/jotem/Desktop/Universidade/3 Ano/Segundo semestre/CG/projeto/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/jotem/Desktop/Universidade/3 Ano/Segundo semestre/CG/projeto/build/class3.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
